@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desertrambler
-- 👀 I’m interested in Game Development and Functional Programming
-- 🌱 I’m currently learning Lua and Love2D
+- 👀 I’m interested in iOS development and architecture
+- 🌱 I’m currently learning Swift and SwiftUI
 - 📫 How to reach me: ccrenshaw2012@gmail.com
 
 <!---
