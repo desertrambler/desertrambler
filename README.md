@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desertrambler
-- 👀 I’m interested in iOS development and architecture
-- 🌱 I’m currently learning Swift and SwiftUI
+- 👀 I’m interested in emulator development and graphics programming
+- 🌱 I’m currently learning how to write an NES emulator in C
 - 📫 How to reach me: ccrenshaw2012@gmail.com
 
 <!---
