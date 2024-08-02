@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desertrambler
 - 👀 I’m interested in learning game development
-- 🌱 I’m currently learning the Unity engine
+- 🌱 I’m currently working through CS50Games
 - 📫 How to reach me: ccrenshaw2012@gmail.com
 
 <!---
