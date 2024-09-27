@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @desertrambler
-- 👀 I’m interested in learning D3.js
-- 🌱 I’m currently working through CS50R
+- 👀 I’m interested in learning Vue.js and Nuxt.js
 - 📫 How to reach me: ccrenshaw2012@gmail.com
 
 <!---
