@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @desertrambler
-- 👀 I’m interested in learning Vue.js and Nuxt.js
+- 👀 I’m interested in learning Laravel and Rails
 - 📫 How to reach me: ccrenshaw2012@gmail.com
 
 <!---
